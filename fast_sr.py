@@ -95,5 +95,6 @@ for i in range(idx_dl_stop):
     time.sleep( 70 )
     i=i+1;
 
+fund_wl_sr=fund_wl_sr.sort_values(by=['sr'], ascending=False)
 print(fund_wl_sr)
 
