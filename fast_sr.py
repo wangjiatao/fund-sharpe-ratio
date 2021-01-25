@@ -3,7 +3,7 @@
 """
 Created on Sun Jan 17 19:54:13 2021
 
-@author: wangjiatao
+@author: wangjiatao & elaine
 """
 import tushare as ts
 import pandas as pd
