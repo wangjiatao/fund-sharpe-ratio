@@ -21,5 +21,5 @@ for fast sr calculating: time window=100 trading days.
 
 
 -----
-##log:
+## log:
 1. 20200118: update: breaking api download limitation and adding automatic collected module. But, the outcome of this demo have some flaw with special short term fund, whose return and sigma data are too small to make an efficient conclusion--small sample bias.
